@@ -47,7 +47,7 @@
     "global-tunnel": "^1.2.0",
     "npm": "^2.0.2",
     "prompt": "^0.2.14",
-    "request": "2.61.0",
+    "request": "2.88.2",
     "shelljs": "^0.3.0",
     "traverse": "^0.6.6"
   }
